@@ -1,2 +1,2 @@
-[CLICK HERE TO GO TO WEBSITE!!!](http://theboss15.github.io)
+To view a live demo, click [Here](http://theboss15.github.io)
 ============================================================
